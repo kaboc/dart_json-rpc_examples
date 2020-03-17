@@ -1,0 +1,10 @@
+name: greet
+
+environment:
+  sdk: '>=2.2.0 <3.0.0'
+
+dependencies:
+  intl: ^0.16.1
+  json_rpc_2: ^2.1.0
+  web_socket_channel: ^1.1.0
+
